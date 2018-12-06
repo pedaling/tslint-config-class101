@@ -1,0 +1,32 @@
+{
+  "name": "@pedaling/tslint-config-class101",
+  "version": "1.0.1",
+  "description": "TSLint configuration",
+  "main": "tslint-config-class101.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedaling/tslint-config-class101.git"
+  },
+  "author": "배현승 <bae-unidev@nate.com>",
+  "license": "MIT",
+  "private": false,
+  "peerDependencies": {
+    "tslint": "^5.11.0",
+    "typescript": "^3.1.6"
+  },
+  "dependencies": {
+    "tslint": "^5.11.0",
+    "tslint-config-airbnb": "^5.11.1",
+    "tslint-config-prettier": "^1.17.0",
+    "tslint-react": "^3.6.0",
+    "typescript": "^3.1.6"
+  },
+  "bugs": {
+    "url": "https://github.com/pedaling/tslint-config-class101/issues"
+  },
+  "homepage": "https://github.com/pedaling/tslint-config-class101#readme",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

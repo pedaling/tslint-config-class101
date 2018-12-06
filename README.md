@@ -1,0 +1,1 @@
+# tslint-config-class101
