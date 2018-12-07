@@ -1,11 +1,11 @@
-{
-  "extends": [
+module.exports = {
+  extends: [
     "tslint:recommended",
     "tslint-react",
     "tslint-config-airbnb",
     "tslint-config-prettier"
   ],
-  "rules": {
+  rules: {
     "import-name": false,
     "array-type": [true, "array"],
     "interface-name": [true, "never-prefix"],
@@ -27,4 +27,4 @@
       }
     ]
   }
-}
+};

@@ -1,8 +1,8 @@
 {
   "name": "@pedaling/tslint-config-class101",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "TSLint configuration",
-  "main": "tslint-config-class101.json",
+  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/pedaling/tslint-config-class101.git"
