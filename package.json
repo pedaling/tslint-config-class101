@@ -1,6 +1,6 @@
 {
   "name": "@pedaling/tslint-config-class101",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "TSLint configuration",
   "main": "index.js",
   "repository": {
@@ -12,14 +12,14 @@
   "private": false,
   "peerDependencies": {
     "tslint": "^5.11.0",
-    "typescript": "^3.1.6"
+    "typescript": "3.1.6"
   },
   "dependencies": {
     "tslint": "^5.11.0",
     "tslint-config-airbnb": "^5.11.1",
     "tslint-config-prettier": "^1.17.0",
     "tslint-react": "^3.6.0",
-    "typescript": "^3.1.6"
+    "typescript": "3.1.6"
   },
   "bugs": {
     "url": "https://github.com/pedaling/tslint-config-class101/issues"
