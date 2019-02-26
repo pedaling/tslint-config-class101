@@ -26,11 +26,7 @@ module.exports = {
         "named-imports-order": "any"
       }
     ],
-    "no-unused-variable": {
-      severity: "warning"
-    },
-    "no-unused-expression": {
-      severity: "warning"
-    }
+    "no-unused-variable": true,
+    "no-unused-expression": true
   }
 };
