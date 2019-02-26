@@ -1,6 +1,6 @@
 {
   "name": "@pedaling/tslint-config-class101",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "TSLint configuration",
   "main": "index.js",
   "repository": {
