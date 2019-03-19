@@ -27,6 +27,7 @@ module.exports = {
       }
     ],
     "no-unused-variable": true,
-    "no-unused-expression": true
+    "no-unused-expression": true,
+    "quotemark": [true, "single", "jsx-double"]
   }
 };
