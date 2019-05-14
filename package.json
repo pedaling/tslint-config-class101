@@ -1,5 +1,5 @@
 {
-  "name": "@pedaling/tslint-config-class101",
+  "name": "@class101/tslint-config",
   "version": "1.2.0",
   "description": "TSLint configuration",
   "main": "index.js",
