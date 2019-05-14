@@ -1,6 +1,6 @@
 # TSLint Config Class101
 
-[![NPM version](https://img.shields.io/npm/v/@class101/tslint-config.svg)](https://www.npmjs.com/package/tslint-config-airbnb)
+[![NPM version](https://img.shields.io/npm/v/@class101/tslint-config.svg)](https://www.npmjs.com/package/@class101/tslint-config)
 
 > Class101에서 사용하는 전사 공용 TSLint 입니다.
 
