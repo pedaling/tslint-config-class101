@@ -6,7 +6,6 @@ module.exports = {
     "tslint-config-prettier"
   ],
   rules: {
-    "import-name": false,
     "array-type": [true, "array"],
     "interface-name": [true, "never-prefix"],
     "variable-name": [
@@ -15,11 +14,8 @@ module.exports = {
       "check-format",
       "allow-pascal-case"
     ],
-    "jsx-no-lambda": false,
     "no-namespace": false,
     "object-literal-sort-keys": false,
-    "no-shadowed-variable": false,
-    "jsx-boolean-value": false,
     "ordered-imports": [
       true,
       {
@@ -28,6 +24,6 @@ module.exports = {
     ],
     "no-unused-variable": true,
     "no-unused-expression": true,
-    "quotemark": [true, "single", "jsx-double"]
+    quotemark: [true, "single", "jsx-double"]
   }
 };
