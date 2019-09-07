@@ -8,6 +8,14 @@ module.exports = {
   rules: {
     "array-type": [true, "array"],
     "interface-name": [true, "never-prefix"],
+    "import-name": [
+      true,
+      {
+        react: "React",
+        "react-dom": "ReactDom",
+        "styled-components": "styled"
+      }
+    ],
     "variable-name": [
       true,
       "ban-keywords",
