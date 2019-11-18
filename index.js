@@ -8,19 +8,27 @@ module.exports = {
   rules: {
     'array-type': [true, 'array'],
     'interface-name': [true, 'never-prefix'],
-    'import-name': [
-      true,
-      {
-        react: 'React',
-        reactDom: 'ReactDom',
-        styledComponents: 'styled',
-        graphqlTag: 'gql',
-        reactLoadingSkeleton: 'Skeleton',
-        reactHelmet: 'Helmet',
-        reactEventListener: 'EventListener',
-        ravenJs: 'Raven'
-      }
-    ],
+   'import-name': [
+     true,
+     {
+       react: 'React',
+       reactDom: 'ReactDom',
+       styledComponents: 'styled',
+       graphqlTag: 'gql',
+       reactLoadingSkeleton: 'Skeleton',
+       reactHelmet: 'Helmet',
+       reactEventListener: 'EventListener',
+       ravenJs: 'Raven',
+       reactLoadable: 'Loadable',
+       reactRouterBreadcrumbsHoc: 'withBreadcrumbs',
+       bsonObjectid: 'ObjectId',
+       htmlReactParser: 'htmlParser',
+       josaJs: 'josa',
+       reactCountup: 'CountUp',
+       reactAnimateOnScroll: 'ScrollAnimation',
+       reactInfiniteScrollComponent: 'InfiniteScroll',
+       reactLinkify: 'ReactLinkify'
+     },
     'variable-name': [
       true,
       'ban-keywords',
